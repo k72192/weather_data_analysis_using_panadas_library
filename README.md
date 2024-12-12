@@ -1,5 +1,4 @@
 # weather_data_analysis_using_panadas_library
-# Weather Data Analysis
 
 ## Description
 This project focuses on analyzing weather data to uncover trends, patterns, and anomalies. By leveraging Python and powerful data visualization libraries, it presents insights into various weather conditions and their implications.
@@ -55,7 +54,8 @@ This project focuses on analyzing weather data to uncover trends, patterns, and 
 ## Contact
 - **Developer**: kedar dadaso kumbhar
 - **Email**: kumbharkedar5256@gmail.com
-- **GitHub**: 
+- **GitHub**: [github.com](https://github.com/k72192/k72192.git)
+- **LinkedIn**: [Kedar Kumbhar](https://www.linkedin.com/in/kedar-kumbhar-357286222)
 
 ---
 
